@@ -1,5 +1,5 @@
 
-# Car Sales Project
+# Car Sales Analysis
 <img width="1294" height="728" alt="Screenshot 2025-07-31 230300" src="https://github.com/user-attachments/assets/e099e927-cf63-4f07-9f4d-fd2816ac3185" />
 
 
@@ -34,9 +34,6 @@ The business required a BI tool to monitor sales performance, identify growth op
 - Custom DAX measures to track growth and performance  
 - Scalable data model designed for future extension  
 
-## Screenshot / Results
-*(Insert your dashboard screenshots or performance graphs here)*
 
----
 
-Feel free to customize or expand this README further based on your repository details or additional documentation.
+
